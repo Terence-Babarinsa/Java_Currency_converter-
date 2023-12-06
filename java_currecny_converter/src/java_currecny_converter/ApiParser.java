@@ -2,7 +2,6 @@ package java_currecny_converter;
 import org.json.JSONObject;
 
 
-
 public class ApiParser {
 	
 	public String api_parser(String apiResponse) {
